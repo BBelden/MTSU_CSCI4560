@@ -1,0 +1,14 @@
+drop table ATTACHMENTS;
+drop table SECURITY;
+drop table USERNAME;
+drop table APPLIED_FO;
+drop table QUOTES;
+drop table TAGS;
+drop table PRODUCT;
+drop table COUNTRY;
+drop table COMPLEXITY;
+drop table SUB_CAT;
+drop table PERSON;
+drop table GROUPS;
+drop table HOURLY;
+drop schema Schneider;
